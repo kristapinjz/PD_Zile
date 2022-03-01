@@ -1,3 +1,3 @@
 from math import*
-print(sqrt(225))
+print(sqrt(625))
 #Zīle izlaboja kļūdu
